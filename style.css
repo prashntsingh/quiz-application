@@ -1,0 +1,65 @@
+body
+{   background: red;
+	font-family: 'Roboto Slab', serif;
+}
+
+
+#quiz
+{
+	margin-left: 10px;
+	background: orange;
+	padding: 10px 20px 10px 20px;
+	width: 400px;
+	border-radius: 20px;
+}
+input
+{
+	display: block;
+}
+#textbox
+{
+	height: 25px;
+	font-size: 20px;
+	padding-left: 5px;
+	border:none;
+	border-radius: 10px;
+
+}
+
+#button
+{
+	height: 30px;
+	border:none;
+	padding: 10px;
+	margin-top: 15px;
+	font-size: 16px;
+	color: white;
+	background: green;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+#button:hover
+{
+	background: white;
+	cursor: pointer;
+	color: black;
+}
+#after_sub
+{
+visibility:hidden;
+background:orange;
+padding: 10px 20px 10px 20px;
+border-radius: 20px;
+float: center;
+font-size: 30px;
+margin-left: 500px;
+margin-top: -350px;
+width: 400px;
+
+
+}
+#picture
+{
+	width: 375px;
+	height: 245px;
+}
